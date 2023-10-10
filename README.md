@@ -51,4 +51,3 @@ Estudando <b>Desenvolvimento Web</b> pelo Instituto PROA.
   <br>
 </div>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?stephanymdias=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
