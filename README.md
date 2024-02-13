@@ -15,13 +15,9 @@
 </div>
 
 <div>
-   <a href="https://github.com/HernandoSilva">
+   <a href="https://github.com/stephanymdias">
    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=HernandoSilva&show_icons=true&theme=neon&include_all_commits=true&count_private=true"/>
-   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HernandoSilva&layout=compact&langs_count=6&theme=neon"/>
-</div>
-
-<div>
-<img align="center" alt="synth" height="30" width="800" src="https://media.tenor.com/sbStxsoArjAAAAAi/line.gif">
+   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StephanyMarcianoDias&layout=compact&langs_count=6&theme=neon"/>
 </div>
 
 ## ⭐️ Sobre mim
