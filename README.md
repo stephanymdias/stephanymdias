@@ -19,7 +19,7 @@
   <b>"O bom caçador entende o tempo da flecha."</b>
 </div><br>
 
-Estudando <b>Desenvolvimento Web</b> pelo Instituto PROA.
+Cursando <b>Análise e Desenvolvimento de Sistemas </b> na Faculdade Flamingo.
 <br><br>
 
 <b>Além da programação...</b>
