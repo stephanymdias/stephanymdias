@@ -14,6 +14,16 @@
   <a href="https://instagram.com/stephx_y/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
 
+<div>
+   <a href="https://github.com/HernandoSilva">
+   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=HernandoSilva&show_icons=true&theme=neon&include_all_commits=true&count_private=true"/>
+   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HernandoSilva&layout=compact&langs_count=6&theme=neon"/>
+</div>
+
+<div>
+<img align="center" alt="synth" height="30" width="800" src="https://media.tenor.com/sbStxsoArjAAAAAi/line.gif">
+</div>
+
 ## ⭐️ Sobre mim
 <div align='center'>
   <b>"O bom caçador entende o tempo da flecha."</b>
@@ -40,11 +50,15 @@ Estudando <b>Desenvolvimento Web</b> pelo Instituto PROA.
 ## ⭐️ Hard Skills
 
 <div align="right">
-  
-  <!-- JavaScript --> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-  <!-- SQL --> <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
+<div>
+<div style="display: inline_block"><br>
+  <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+</div>
+</div>
   <br>
 </div>
 
